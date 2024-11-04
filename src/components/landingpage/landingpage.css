@@ -1,0 +1,271 @@
+.landingpage{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.Header10{
+    display: flex;
+    background: #1DC9D3;
+    height: 80px;
+   width:100%;
+    color: #FFFFFF;
+    position: fixed;
+    z-index:99;
+    margin-top:0;
+    top: 0;
+    left: 0;
+    
+}
+.logo img{
+    width: 100px;
+    Height: 80px;
+    margin-left: 30px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    margin-left: 700px;
+    justify-content: center;
+    
+}
+.navbarul{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.navbar li{
+    list-style: none;
+    padding:15px;
+}
+.navbar a {
+    text-decoration: none;
+    color:#FFFFFF
+}
+.navbar li :hover{
+    transition: 0.5s;
+    width: 40px;
+    color:black;
+
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 60px;
+   
+   
+}
+.buttons button{
+    padding: 10px;
+    margin: 0 12px;
+    width: 100px;
+    border-radius: 40px;
+    border-color: #FFFFFF;
+    color:#FFFFFF;
+    background: transparent;
+}
+.buttons   :hover{
+    transition: 0.5s;
+    color:black;
+
+}
+
+.content{
+    margin-top:72px;
+    display: flex;
+    background: #D9D9D9;
+}
+    
+.welcome{
+    margin-top: 150px;
+    margin-left: 40px;
+}
+.top{
+    color:#FFFFFF;
+    margin-left:30px;
+
+}
+.bottom{
+    display: flex;
+
+}
+.bottom span{
+    margin-left:5px;
+}
+.bottom img{
+    width:20px;
+    height:40px;
+}
+.Art img{
+    margin-top: 20px;
+    width: 900px;
+    height: 700px;
+}
+.property{
+    display: flex;
+    flex-direction: column;
+    background: #FFFFFF;
+    
+}
+.first{
+   text-align: center;
+   margin-top: 80px;
+  
+} 
+.units{
+    margin-top: 90px;
+    display: flex;
+    margin-bottom: 100px;
+}
+.units p{
+margin-left: 90px;
+margin-top: 30px;
+}
+    
+
+.units img{
+    width:350px;
+    height:200px;
+   
+}
+.details{
+    display:flex;
+    background: #D9D9D9;
+    
+}
+.contacticons{
+    display:flex;
+    flex-direction: column;
+    margin-top:100px;
+    margin-left: 100px;
+}
+.contacticons img{
+    width:80px;
+    height:80px;
+    
+}
+.contacttext{
+    display:flex;
+    flex-direction: column;
+    margin-top:150px;
+    padding:0 50px;
+}
+.map{
+    margin-top:50px;
+    margin-left: 300px;
+  
+}
+.footerdetails{
+    display: flex;
+    background:black;
+   
+   
+}
+.Appartment{
+margin:80px;
+color:#FFFFFF;
+}
+.ftext2{
+    color:#FFFFFF;
+   
+}
+.footerdetails img{
+    width:200px;
+    height:50px;
+}
+.quicklink{
+    margin-left:20px;
+    margin-top: 90px;
+}
+.quicklink li{
+    list-style: none;
+}
+.galary{
+    margin-top: 90px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+  
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+/* .hero {
+    position: relative;
+    background-size: cover;
+    min-height: 501px;
+    height: auto;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    width: 100%;
+    background: #fff;
+    z-index: 0;
+    padding: 200px 0 100px 0;
+
+}
+
+.d-flex {
+    display: flex !important;
+}
+section {
+    scroll-margin-top: 70px;
+    
+}
+.hero-main-image {
+    position: absolute;
+    z-index: -2;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height: 100%;
+    animation: crescendo 7.5s alternate infinite ease-in;
+}
+.hero-main-image  img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.image-overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 0;
+    display: block;
+    transition: all 0.5s ease-in-out 0s;
+    background: linear-gradient(0deg, #000000, #000000 786px);
+    opacity: 0.4;
+}
+.align-items-center {
+    align-items: center !important;
+}
+.justify-content-center {
+    justify-content: center !important;
+}
+.position-relative {
+    position: relative !important;
+}
+.d-flex {
+    display: flex !important;
+}
+.containerl, .containerl-fluid, .containerl-lg, .containerl-md, .containerl-sm, .containerl-xl, .containerl-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x)* .5);
+    padding-left: calc(var(--bs-gutter-x)* .5);
+    margin-right: auto;
+    margin-left: auto;
+} */

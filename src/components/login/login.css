@@ -1,0 +1,67 @@
+.containerlog{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    margin-top: 50px;
+    padding-bottom: 90px;
+    background: #ffffff; 
+    width:400px;
+    border: 2px solid #1DC9D3;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); 
+    border-radius: 24px;
+}
+.Signin_to_continue {
+    color: #000;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.submit_container{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    margin:20px auto;
+
+    }
+
+
+.forgot_password{
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+    margin:auto;
+    font-style: italic;
+}
+.forgot_password span{
+    color: #1DC9D3;
+    cursor: pointer;
+}
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 220px;
+    height: 59px;
+    color:#F5F5F5;
+    background: #000000;
+    border-radius: 24px;
+    border:2px solid #F5F5F5;
+    font-size: 32px;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+.register{
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+    margin:auto;
+    font-style: italic;
+}
+.register span{
+    color: #1DC9D3;
+    cursor: pointer;
+    margin:auto;
+    
+}

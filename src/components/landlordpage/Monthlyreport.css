@@ -1,0 +1,85 @@
+.card-headerrep{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left:10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  
+}
+.filttop {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    z-index: 100;
+    margin-left: 20px;
+
+  }
+  .card-bodyrep{
+    background:#fff;
+    border: 3px solid #dbd8d8;
+    height:900px;
+  }
+
+  .filttop label {
+    font-size: 16px;
+    color: #333; 
+    margin-right: 8px;
+  }
+  .buildingfilt{
+    margin-right: 400px;
+   
+  }
+  .monthfilt{
+    margin-right:10px;
+  }
+  .buildingfilt, .monthfilt select {
+    padding: 8px 12px;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    color: #333;
+    outline: none; 
+  }
+  
+
+  .buildingfilt:focus, .monthfilt select:focus {
+    border-color: #007bff; 
+  }
+ .btn-default2 {
+    margin-right: 0.2rem;
+    padding: 5px 30px; 
+    font-size: 14px;
+    transition: background-color 0.3s ease; 
+  }
+  
+ .btn-default2:hover {
+    background-color: blue; 
+    color: white; 
+  }
+  .printrep{
+    margin-left: 885px;
+    padding-top:10px;
+    padding-bottom:10px;
+  }
+  .btn-default3 {
+    margin-right: 0.2rem;
+    padding: 5px 30px; 
+    font-size: 14px;
+    transition: background-color 0.3s ease; 
+    background: rgb(7, 156, 7);
+    color:#fff;
+    width:150px;
+    
+  }
+  
+ .btn-default3:hover {
+    background-color: rgb(2, 96, 21); 
+    color: white; 
+  }
+  
+ 
+ 
+  
+  
+  
+ 

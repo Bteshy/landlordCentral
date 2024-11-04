@@ -1,0 +1,66 @@
+.Headert{
+    display: flex;
+    background: #E7E4E4;
+    height: 80px;
+   width:100%;
+    color: #FFFFFF;
+    position: fixed;
+    z-index:99;
+    margin-top:0;
+    top: 0;
+   margin-left:283px;
+    
+}
+.profile {
+    background: green;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+    
+.bell-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+     /* Example style */
+}
+.navbar2{
+    display: flex;
+    align-items: center;
+    margin-left: 1050px;
+    
+}
+
+.navbar2 li{
+    list-style: none;
+    padding:15px;
+}
+.navbar2 a {
+    text-decoration: none;
+    color:#FFFFFF
+}
+.navbar2 li :hover{
+    transition: 0.2s;
+    color:black;
+}
+.profile-popup {
+    position: fixed;
+    margin-top:20px;
+    right:0 ;
+    width: 450px; /* Adjust width as needed */
+    height: 50%; /* Cover the entire height of the viewport */
+
+    z-index: 999; /* Ensure it appears above other elements */
+    
+}

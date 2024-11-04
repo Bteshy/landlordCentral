@@ -1,0 +1,119 @@
+.sidebar{
+    position:fixed;
+   margin: 0;
+    width:290px;
+    background: linear-gradient(#1DC9D3,#15CA88);
+    background-repeat: no-repeat;
+    font-family: "poppins", sans-serif;
+    overflow: hidden;
+    padding: 0 1.7rem;
+    transition: all 0.5s linear;
+    z-index: 100;
+    height: 100vh;
+   /* border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px; */
+    
+
+}
+/* .scrolls :hover{
+    width: 400px;
+    transition: 0.5s;
+} */
+.usericon{
+    font-size: 150px;
+    padding:40px;
+    color:#FFFFFF;
+}
+
+.Username{
+    color:#FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+}
+.Username span{
+    font-size: 10px;
+    font-weight: 200;
+}
+.scrolls{
+    height: 90%;
+    position:relative;
+    padding: 0;
+}
+.scrolls img{
+    width: 20px;
+    Height: 20px;
+}
+.scrolls li{
+    height: 88%;
+    padding: 1rem;
+    margin:8px 0;
+    border-radius: 8px;
+    transition: all 0.5 ease-in-out;
+    list-style: none;
+    
+}
+.scrolls span {
+    position: relative;
+    margin-bottom: -1px;
+    color: #FFFFFF;
+    font-weight: 600;
+
+}
+
+.scrolls li:hover, .active {
+    background-color: #2740afad;
+    color: #fffafa;
+    cursor: pointer;
+   
+}
+.scrolls a{
+    color:#fffafa;
+    font-size: 14px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap:1rem;
+}
+.scrolls a span{
+    overflow: hidden;
+}
+
+
+.dropdown {
+    /* position: relative; */
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background:transparent;
+    min-width: 200px;
+    z-index: 1;
+    left: 0;
+    
+    
+    
+    
+   
+  }
+  
+
+  .dropdown-content a {
+    color: black;
+    padding-top: 15px ;
+    text-decoration: none;
+    display: block;
+  }
+  
+ 
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  

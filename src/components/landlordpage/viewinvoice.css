@@ -1,0 +1,41 @@
+body{margin-top:20px;
+    background-color:#eee;
+    }
+    
+    
+       
+    .invoice-title{
+        display: flex;
+    }
+    .Tenantdetails{
+        margin-left: 20px;
+        margin-right: 600px;
+    }
+    .moredet{
+        margin-left: 20px;
+        margin-right: 650px;
+    }
+    .row{
+        display: flex;
+      }
+    .cardinvo {
+        box-shadow: 0 20px 27px 0 rgb(0 0 0 / 5%);
+    }
+    .cardinvo {
+        position: relative;
+        width:1000px;
+        height: 500px;
+        flex-direction: column;
+       
+        word-wrap: break-word;
+        background-color: #fff;
+       
+        border: 0 solid rgba(0,0,0,.125);
+       margin: auto;
+    }
+    .card-footerinvo{
+        margin-top:10px;
+        margin-left: 400px;
+        margin-bottom: 10px;
+      }
+    

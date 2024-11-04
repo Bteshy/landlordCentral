@@ -1,0 +1,340 @@
+.building-container .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#D9D9D9 ;
+    height: 100%;
+    margin-left: 19rem;
+    margin-top: 4.4rem;
+    width:100%;
+}
+.unit-container{
+  display: flex;
+  flex-wrap: wrap;
+  background-color:#D9D9D9 ;
+  height: 100%;
+  margin-left: 19rem;
+  margin-top: 4.4rem;
+  width:100%;
+}
+
+  .card-header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left:10px;
+  }
+  .card-header2{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left:10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .card-header3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left:10px;
+    text-align: center;
+  }
+  .newtenant{
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 0.575rem 2rem;
+    font-size: 0.875rem; 
+    border: none;
+    border-radius: 0.2rem; 
+    text-align: center; 
+    cursor: pointer; 
+    margin-right: 10px;
+    float: right;
+  }
+  
+  
+  .building-container .card {
+    margin-left: 20px;
+    background:#ffffff;
+    margin-right:80px;
+    height:450px;
+    width:400px;
+  }
+  .unit-container .card{
+    margin-left: 20px;
+    background:#fff;
+    margin-right:40px;
+    height:650px;
+    width:390px
+  }
+  
+  .tenantspopup{
+   
+    background:#fff;
+    margin-right:150px;
+    height:450px;
+    width:900px;
+   
+  }
+  .paymentPopup{
+    display: flex;
+    background:#fff;
+    height:450px;
+    width:600px;
+    display:flex;
+    margin:auto;
+    flex-direction: column;
+    
+  
+  }
+  .popup{
+   position: fixed;
+  margin:auto;
+  top:0;
+  background-color: #fff; 
+   z-index: 1000;   
+  }
+
+   .popupb {
+    position: fixed;
+    top: 49%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    background-color:#1DC9D3; /* Background color of the popup */
+    z-index: 1001; /* Ensure it appears on top of the overlay */
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Optional: Add a shadow effect */
+}
+.popupu {
+  position: fixed;
+  top: 30%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  background-color:#1DC9D3; /* Background color of the popup */
+  z-index: 1001; /* Ensure it appears on top of the overlay */
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Optional: Add a shadow effect */
+ 
+  
+}
+
+ 
+   .edit-form{
+    margin-left: 20px;
+    margin-top: 40px;
+
+    height:450px;
+   
+   }
+   .edit-form2{
+    margin-left: 20px;
+    margin-top: 40px;
+    height:620px;
+   
+   }
+
+   .edit-form3{
+    display: flex;
+    background:#fff;
+    height:450px;
+    width:600px;
+    margin-top: 40px;
+    flex-direction: column;
+    
+  
+  }
+
+ 
+
+  .card4{
+    margin-left: 20px;
+    background:#fff;
+    margin-right:140px;
+    height:450px;
+    width:900px;
+  }
+  .card5{
+    
+    background:#fff;
+    height:900px;
+
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+  }
+  .form-group3 {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom:1rem;
+  }
+  .form-group3 label {
+    display: block;
+    margin-bottom:1rem;
+  }
+  .formgroup {
+     margin-top:60px;
+     margin-left: 350px;
+  }
+  
+  .form-control {
+    display: block;
+    width: 80%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color:black;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .card-footer{
+    margin-top:30px;
+    margin-left: 50px;
+    
+  }
+  .card-footer2{
+    margin-top:30px;
+    margin-left: 650px;
+  }
+  .card-footer3{
+    margin-top:30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+  }
+  .btn-primary, .btn-default {
+    margin-right: 0.2rem;
+    padding: 5px 15px; 
+    font-size: 14px;
+    transition: background-color 0.3s ease; 
+  }
+ 
+
+  
+  .btn-primary, .btn-default:hover {
+    background-color: blue; 
+    color: white; 
+  }
+  
+ 
+  .btn-primary {
+    background-color: #007bff; 
+        color: white; 
+  }
+  
+  
+ 
+  
+  
+  .btn-danger{
+    background: #FE3D3D;
+    padding: 5px 25px; 
+    font-size: 16px;
+    color: white; 
+    transition: background-color 0.3s ease; 
+    margin-right:3px;
+
+  }
+  .btn-danger:hover{
+    background-color: #EB0505;
+  }
+  .card2{
+    margin-top: 5px;
+    background:#e6e4e4;
+    /* margin-right:200px; */
+    height:1000px;
+    width:740px;
+  }
+  .card3{
+    margin-top: 100px;
+    background:#e6e4e4;
+    margin-left:310px;
+    height:1000px;
+    width:1200px;
+    
+  }
+  .card6{
+    margin-top: 100px;
+    background:#e6e4e4;
+    /* margin-right:200px; */
+    height:600px;
+    width:1200px;
+    margin-left:300px;
+
+  }
+  .card-body{
+    background:#fff;
+    /* border: 3px solid #dbd8d8; */
+    margin:10px;
+  
+  }
+  .card-body2{
+    background:#fff;
+    border: 3px solid #dbd8d8;
+    margin:10px;
+    height:900px;
+  }
+  .card-body3{
+    display: flex;
+  justify-content: space-between;
+  }
+  .form-group2{
+    margin-bottom: 15px;
+  }
+
+.b{
+    background: #1DC9D3 ;
+    color:black;
+    padding:0 ;
+    text-align: left;
+    
+}
+
+   tr:nth-child(even){
+    background: #a9a7a7;
+
+   }
+   .filter{
+    display: flex;
+    justify-content:space-between;
+   }
+   .filter input{
+    padding: 10px;
+   }
+   .inputb{
+    margin-right: 10px;
+    margin-top: 5px;
+
+   }
+   .values{
+    margin: 10px;
+    padding: 3px 10px;
+   }
+
+   .column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex: 1; 
+    padding: 0 10px; 
+  }
+
+  
+  
+  /* Adjustments for smaller screens */
+  @media (max-width: 768px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
+  @media print {
+    .no-print {
+      display: none;
+    }
+  }
+  

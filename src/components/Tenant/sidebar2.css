@@ -1,0 +1,66 @@
+.sidebar2{
+    position:fixed;
+   
+   height: 100vh;
+    width:290px;
+    left:0;
+    top:0;
+    background: linear-gradient(#1DC9D3,#15CA88);
+    background-repeat: no-repeat;
+    font-family: "poppins", sans-serif;
+    overflow: hidden;
+    padding: 0 1.7rem;
+    transition: all 0.5s linear;
+    z-index: 100;
+}
+
+.logostyle{
+    margin-bottom: 40px;
+  
+}
+
+.scrolls2{
+    height: 88%;
+    position:relative;
+    padding: 0;
+    margin-top: 20px;
+}
+.scrolls2 img{
+    width: 20px;
+    Height: 20px;
+}
+.scrolls2 li{
+    margin-top: 50px;
+    height: 88%;
+    padding: 1rem;
+    margin:8px 0;
+    border-radius: 8px;
+    transition: all 0.5 ease-in-out;
+    list-style: none;
+    
+}
+.scrolls2 span {
+    position: relative;
+    margin-bottom: -1px;
+    color: #FFFFFF;
+    font-weight: 600;
+
+}
+
+.scrolls2 li:hover, .active {
+    background-color: #2740afad;
+    color: #fffafa;
+    cursor: pointer;
+   
+}
+.scrolls2 a{
+    color:#fffafa;
+    font-size: 14px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap:1rem;
+}
+.scrolls2 a span{
+    overflow: hidden;
+}

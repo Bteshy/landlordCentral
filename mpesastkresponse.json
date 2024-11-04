@@ -1,0 +1,341 @@
+{
+    "event": "charge.success",
+    "data": {
+        "id": 3629713144,
+        "domain": "live",
+        "status": "success",
+        "reference": "786295756",
+        "amount": 500,
+        "message": "madePayment",
+        "gateway_response": "Approved",
+        "paid_at": "2024-03-14T17:33:42.000Z",
+        "created_at": "2024-03-14T17:33:12.000Z",
+        "channel": "mobile_money",
+        "currency": "KES",
+        "ip_address": "41.212.28.23",
+        "metadata": {
+            "referrer": "http://localhost:3000/tenantpayment"
+        },
+        "fees_breakdown": {
+            "amount": "8",
+            "formula": null,
+            "type": "paystack"
+        },
+        "log": null,
+        "fees": 8,
+        "fees_split": null,
+        "authorization": {
+            "authorization_code": "AUTH_smclm5ih2m",
+            "bin": "075XXX",
+            "last4": "X170",
+            "exp_month": "12",
+            "exp_year": "9999",
+            "channel": "mobile_money",
+            "card_type": "",
+            "bank": "M-PESA",
+            "country_code": "KE",
+            "brand": "M-pesa",
+            "reusable": false,
+            "signature": null,
+            "account_name": null,
+            "receiver_bank_account_number": null,
+            "receiver_bank": null
+        },
+        "customer": {
+            "id": 161836078,
+            "first_name": "",
+            "last_name": "",
+            "email": "brendachepngetich123@gmail.com",
+            "customer_code": "CUS_yvrr928s0upwjgo",
+            "phone": "",
+            "metadata": null,
+            "risk_action": "default",
+            "international_format_phone": null
+        },
+        "plan": {},
+        "subaccount": {},
+        "split": {},
+        "order_id": null,
+        "paidAt": "2024-03-14T17:33:42.000Z",
+        "requested_amount": 500,
+        "pos_transaction_data": null,
+        "source": {
+            "type": "web",
+            "source": "checkout",
+            "entry_point": "request_inline",
+            "identifier": null
+        }
+    }
+}{
+    "event": "charge.success",
+    "data": {
+        "id": 3629747402,
+        "domain": "live",
+        "status": "success",
+        "reference": "128493939",
+        "amount": 500,
+        "message": "madePayment",
+        "gateway_response": "Approved",
+        "paid_at": "2024-03-14T17:46:38.000Z",
+        "created_at": "2024-03-14T17:46:14.000Z",
+        "channel": "mobile_money",
+        "currency": "KES",
+        "ip_address": "41.212.28.23",
+        "metadata": {
+            "referrer": "http://localhost:3000/tenantpayment"
+        },
+        "fees_breakdown": {
+            "amount": "8",
+            "formula": null,
+            "type": "paystack"
+        },
+        "log": null,
+        "fees": 8,
+        "fees_split": null,
+        "authorization": {
+            "authorization_code": "AUTH_xyvioz7k06",
+            "bin": "075XXX",
+            "last4": "X170",
+            "exp_month": "12",
+            "exp_year": "9999",
+            "channel": "mobile_money",
+            "card_type": "",
+            "bank": "M-PESA",
+            "country_code": "KE",
+            "brand": "M-pesa",
+            "reusable": false,
+            "signature": null,
+            "account_name": null,
+            "receiver_bank_account_number": null,
+            "receiver_bank": null
+        },
+        "customer": {
+            "id": 161836078,
+            "first_name": "",
+            "last_name": "",
+            "email": "brendachepngetich123@gmail.com",
+            "customer_code": "CUS_yvrr928s0upwjgo",
+            "phone": "",
+            "metadata": null,
+            "risk_action": "default",
+            "international_format_phone": null
+        },
+        "plan": {},
+        "subaccount": {},
+        "split": {},
+        "order_id": null,
+        "paidAt": "2024-03-14T17:46:38.000Z",
+        "requested_amount": 500,
+        "pos_transaction_data": null,
+        "source": {
+            "type": "web",
+            "source": "checkout",
+            "entry_point": "request_inline",
+            "identifier": null
+        }
+    }
+}{
+    "event": "charge.success",
+    "data": {
+        "id": 3629771928,
+        "domain": "live",
+        "status": "success",
+        "reference": "843251137",
+        "amount": 500,
+        "message": "madePayment",
+        "gateway_response": "Approved",
+        "paid_at": "2024-03-14T17:57:14.000Z",
+        "created_at": "2024-03-14T17:56:52.000Z",
+        "channel": "mobile_money",
+        "currency": "KES",
+        "ip_address": "41.212.28.23",
+        "metadata": {
+            "referrer": "http://localhost:3000/tenantpayment"
+        },
+        "fees_breakdown": {
+            "amount": "8",
+            "formula": null,
+            "type": "paystack"
+        },
+        "log": null,
+        "fees": 8,
+        "fees_split": null,
+        "authorization": {
+            "authorization_code": "AUTH_jr4qeogz8p",
+            "bin": "070XXX",
+            "last4": "X599",
+            "exp_month": "12",
+            "exp_year": "9999",
+            "channel": "mobile_money",
+            "card_type": "",
+            "bank": "M-PESA",
+            "country_code": "KE",
+            "brand": "M-pesa",
+            "reusable": false,
+            "signature": null,
+            "account_name": null,
+            "receiver_bank_account_number": null,
+            "receiver_bank": null
+        },
+        "customer": {
+            "id": 161962591,
+            "first_name": "",
+            "last_name": "",
+            "email": "dsfdgh@gmail.com",
+            "customer_code": "CUS_tls4cu8r4lctji4",
+            "phone": "",
+            "metadata": null,
+            "risk_action": "default",
+            "international_format_phone": null
+        },
+        "plan": {},
+        "subaccount": {},
+        "split": {},
+        "order_id": null,
+        "paidAt": "2024-03-14T17:57:14.000Z",
+        "requested_amount": 500,
+        "pos_transaction_data": null,
+        "source": {
+            "type": "web",
+            "source": "checkout",
+            "entry_point": "request_inline",
+            "identifier": null
+        }
+    }
+}{
+    "event": "charge.success",
+    "data": {
+        "id": 3631109080,
+        "domain": "live",
+        "status": "success",
+        "reference": "754798569",
+        "amount": 500,
+        "message": "madePayment",
+        "gateway_response": "Approved",
+        "paid_at": "2024-03-15T08:03:12.000Z",
+        "created_at": "2024-03-15T08:02:50.000Z",
+        "channel": "mobile_money",
+        "currency": "KES",
+        "ip_address": "41.212.28.23",
+        "metadata": {
+            "referrer": "http://localhost:3000/tenantpayment#"
+        },
+        "fees_breakdown": {
+            "amount": "8",
+            "formula": null,
+            "type": "paystack"
+        },
+        "log": null,
+        "fees": 8,
+        "fees_split": null,
+        "authorization": {
+            "authorization_code": "AUTH_kng038tws1",
+            "bin": "070XXX",
+            "last4": "X599",
+            "exp_month": "12",
+            "exp_year": "9999",
+            "channel": "mobile_money",
+            "card_type": "",
+            "bank": "M-PESA",
+            "country_code": "KE",
+            "brand": "M-pesa",
+            "reusable": false,
+            "signature": null,
+            "account_name": null,
+            "receiver_bank_account_number": null,
+            "receiver_bank": null
+        },
+        "customer": {
+            "id": 161993640,
+            "first_name": "",
+            "last_name": "",
+            "email": "wema@gmail.com",
+            "customer_code": "CUS_6jrorfj2kfhb69h",
+            "phone": "",
+            "metadata": null,
+            "risk_action": "default",
+            "international_format_phone": null
+        },
+        "plan": {},
+        "subaccount": {},
+        "split": {},
+        "order_id": null,
+        "paidAt": "2024-03-15T08:03:12.000Z",
+        "requested_amount": 500,
+        "pos_transaction_data": null,
+        "source": {
+            "type": "web",
+            "source": "checkout",
+            "entry_point": "request_inline",
+            "identifier": null
+        }
+    }
+}{
+    "event": "charge.success",
+    "data": {
+        "id": 3640458593,
+        "domain": "live",
+        "status": "success",
+        "reference": "988697040",
+        "amount": 500,
+        "message": "madePayment",
+        "gateway_response": "Approved",
+        "paid_at": "2024-03-18T13:09:43.000Z",
+        "created_at": "2024-03-18T13:09:00.000Z",
+        "channel": "mobile_money",
+        "currency": "KES",
+        "ip_address": "41.212.28.23",
+        "metadata": {
+            "referrer": "http://localhost:3000/tenantpayment"
+        },
+        "fees_breakdown": {
+            "amount": "8",
+            "formula": null,
+            "type": "paystack"
+        },
+        "log": null,
+        "fees": 8,
+        "fees_split": null,
+        "authorization": {
+            "authorization_code": "AUTH_r9fjtbwxyy",
+            "bin": "070XXX",
+            "last4": "X599",
+            "exp_month": "12",
+            "exp_year": "9999",
+            "channel": "mobile_money",
+            "card_type": "",
+            "bank": "M-PESA",
+            "country_code": "KE",
+            "brand": "M-pesa",
+            "reusable": false,
+            "signature": null,
+            "account_name": null,
+            "receiver_bank_account_number": null,
+            "receiver_bank": null
+        },
+        "customer": {
+            "id": 161993640,
+            "first_name": "",
+            "last_name": "",
+            "email": "wema@gmail.com",
+            "customer_code": "CUS_6jrorfj2kfhb69h",
+            "phone": "",
+            "metadata": null,
+            "risk_action": "default",
+            "international_format_phone": null
+        },
+        "plan": {},
+        "subaccount": {},
+        "split": {},
+        "order_id": null,
+        "paidAt": "2024-03-18T13:09:43.000Z",
+        "requested_amount": 500,
+        "pos_transaction_data": null,
+        "source": {
+            "type": "web",
+            "source": "checkout",
+            "entry_point": "request_inline",
+            "identifier": null
+        }
+    }
+}{"event":"charge.success","data":{"id":3640661019,"domain":"live","status":"success","reference":"75358978","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-18T14:43:28.000Z","created_at":"2024-03-18T14:43:10.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_lyxl8eonfl","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":161993640,"first_name":"","last_name":"","email":"wema@gmail.com","customer_code":"CUS_6jrorfj2kfhb69h","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-18T14:43:28.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3640663145,"domain":"live","status":"success","reference":"433861854","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-18T14:44:58.000Z","created_at":"2024-03-18T14:44:30.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_rdn2mp6k6g","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":161993640,"first_name":"","last_name":"","email":"wema@gmail.com","customer_code":"CUS_6jrorfj2kfhb69h","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-18T14:44:58.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3640703237,"domain":"live","status":"success","reference":"765925744","amount":1000,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-18T15:08:28.000Z","created_at":"2024-03-18T15:08:04.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment"},"fees_breakdown":{"amount":"15","formula":null,"type":"paystack"},"log":null,"fees":15,"fees_split":null,"authorization":{"authorization_code":"AUTH_walsntgqid","bin":"075XXX","last4":"X677","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162283215,"first_name":"","last_name":"","email":"nnhggj@gmail.com","customer_code":"CUS_385xpo2go1nz4qf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-18T15:08:28.000Z","requested_amount":1000,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3640718111,"domain":"live","status":"success","reference":"183509266","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-18T15:17:21.000Z","created_at":"2024-03-18T15:17:01.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_p68ej23ab9","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162283215,"first_name":"","last_name":"","email":"nnhggj@gmail.com","customer_code":"CUS_385xpo2go1nz4qf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-18T15:17:21.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3640726988,"domain":"live","status":"success","reference":"223798617","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-18T15:22:30.000Z","created_at":"2024-03-18T15:22:07.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_nb6ewtor5l","bin":"072XXX","last4":"X077","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162283215,"first_name":"","last_name":"","email":"nnhggj@gmail.com","customer_code":"CUS_385xpo2go1nz4qf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-18T15:22:30.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3640755442,"domain":"live","status":"success","reference":"7232771","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-18T15:39:13.000Z","created_at":"2024-03-18T15:38:58.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_277h18ck49","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162283215,"first_name":"","last_name":"","email":"nnhggj@gmail.com","customer_code":"CUS_385xpo2go1nz4qf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-18T15:39:13.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3640758726,"domain":"live","status":"success","reference":"722585536","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-18T15:41:13.000Z","created_at":"2024-03-18T15:40:57.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_zur7nk9a3s","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162283215,"first_name":"","last_name":"","email":"nnhggj@gmail.com","customer_code":"CUS_385xpo2go1nz4qf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-18T15:41:13.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642119044,"domain":"live","status":"success","reference":"148854423","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T07:44:01.000Z","created_at":"2024-03-19T07:43:39.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_33hed9bgj9","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162283215,"first_name":"","last_name":"","email":"nnhggj@gmail.com","customer_code":"CUS_385xpo2go1nz4qf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T07:44:01.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642150884,"domain":"live","status":"success","reference":"143047040","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T07:57:09.000Z","created_at":"2024-03-19T07:56:54.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_cvg5yuhekw","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162283215,"first_name":"","last_name":"","email":"nnhggj@gmail.com","customer_code":"CUS_385xpo2go1nz4qf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T07:57:09.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642211183,"domain":"live","status":"success","reference":"929318954","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T08:27:31.000Z","created_at":"2024-03-19T08:27:17.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_iavvfuyjvl","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162345005,"first_name":"","last_name":"","email":"fdgfdl@gmail.com","customer_code":"CUS_naw9tgqwjip6ad1","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T08:27:31.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642301121,"domain":"live","status":"success","reference":"796025127","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T09:12:51.000Z","created_at":"2024-03-19T09:12:35.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_rfoj009954","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162345005,"first_name":"","last_name":"","email":"fdgfdl@gmail.com","customer_code":"CUS_naw9tgqwjip6ad1","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T09:12:51.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642307862,"domain":"live","status":"success","reference":"572623645","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T09:16:08.000Z","created_at":"2024-03-19T09:15:53.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_2kg3vm56jm","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162345005,"first_name":"","last_name":"","email":"fdgfdl@gmail.com","customer_code":"CUS_naw9tgqwjip6ad1","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T09:16:08.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642313863,"domain":"live","status":"success","reference":"474305463","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T09:19:41.000Z","created_at":"2024-03-19T09:19:26.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_2u17uhcc8u","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162345005,"first_name":"","last_name":"","email":"fdgfdl@gmail.com","customer_code":"CUS_naw9tgqwjip6ad1","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T09:19:41.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642322917,"domain":"live","status":"success","reference":"300549080","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T09:24:57.000Z","created_at":"2024-03-19T09:24:42.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_sfh89rht48","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162345005,"first_name":"","last_name":"","email":"fdgfdl@gmail.com","customer_code":"CUS_naw9tgqwjip6ad1","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T09:24:57.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3642718922,"domain":"live","status":"success","reference":"885442319","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T13:05:25.000Z","created_at":"2024-03-19T13:05:03.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_efmiuksa55","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162345005,"first_name":"","last_name":"","email":"fdgfdl@gmail.com","customer_code":"CUS_naw9tgqwjip6ad1","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T13:05:25.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3643127598,"domain":"live","status":"success","reference":"535282126","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-19T17:16:28.000Z","created_at":"2024-03-19T17:16:11.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3000/tenantpayment"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_f2yjofw5b2","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":162405243,"first_name":"","last_name":"","email":"ayoraezra@gmail.com","customer_code":"CUS_85fngqg2d9yl215","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-19T17:16:28.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3661203536,"domain":"live","status":"success","reference":"17629013","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-26T23:34:33.000Z","created_at":"2024-03-26T23:34:16.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3001/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_eq6o0uldhr","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":163146853,"first_name":"","last_name":"","email":"joyrot@gmail.com","customer_code":"CUS_rsfq720l8ngbhwx","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-26T23:34:33.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3661227352,"domain":"live","status":"success","reference":"580537832","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-27T00:05:02.000Z","created_at":"2024-03-27T00:04:47.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3001/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_kaprjeyuib","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":163148068,"first_name":"","last_name":"","email":"deskipruto123@gmail.com","customer_code":"CUS_bz4gdizqh4hmyaa","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-27T00:05:02.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3661619353,"domain":"live","status":"success","reference":"526225218","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-27T06:12:22.000Z","created_at":"2024-03-27T06:12:07.000Z","channel":"mobile_money","currency":"KES","ip_address":"197.177.107.240","metadata":{"referrer":"http://localhost:3001/tenantpayment#"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_6cse1c2hu9","bin":"070XXX","last4":"X599","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":163146853,"first_name":"","last_name":"","email":"joyrot@gmail.com","customer_code":"CUS_rsfq720l8ngbhwx","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-27T06:12:22.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3661766399,"domain":"live","status":"success","reference":"169479432","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-27T07:02:04.000Z","created_at":"2024-03-27T07:01:20.000Z","channel":"mobile_money","currency":"KES","ip_address":"197.177.107.240","metadata":{"referrer":"http://localhost:3001/tenantpayment"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_h1lt112oft","bin":"070XXX","last4":"X806","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":163159501,"first_name":"","last_name":"","email":"rono@gmail.com","customer_code":"CUS_voy0d44yom1gakf","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-27T07:02:04.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}{"event":"charge.success","data":{"id":3665379462,"domain":"live","status":"success","reference":"82699296","amount":500,"message":"madePayment","gateway_response":"Approved","paid_at":"2024-03-28T15:09:29.000Z","created_at":"2024-03-28T15:08:48.000Z","channel":"mobile_money","currency":"KES","ip_address":"41.212.28.23","metadata":{"referrer":"http://localhost:3001/tenantpayment"},"fees_breakdown":{"amount":"8","formula":null,"type":"paystack"},"log":null,"fees":8,"fees_split":null,"authorization":{"authorization_code":"AUTH_ik2i9ihb48","bin":"079XXX","last4":"X791","exp_month":"12","exp_year":"9999","channel":"mobile_money","card_type":"","bank":"M-PESA","country_code":"KE","brand":"M-pesa","reusable":false,"signature":null,"account_name":null,"receiver_bank_account_number":null,"receiver_bank":null},"customer":{"id":161836078,"first_name":"","last_name":"","email":"brendachepngetich123@gmail.com","customer_code":"CUS_yvrr928s0upwjgo","phone":"","metadata":null,"risk_action":"default","international_format_phone":null},"plan":{},"subaccount":{},"split":{},"order_id":null,"paidAt":"2024-03-28T15:09:29.000Z","requested_amount":500,"pos_transaction_data":null,"source":{"type":"web","source":"checkout","entry_point":"request_inline","identifier":null}}}

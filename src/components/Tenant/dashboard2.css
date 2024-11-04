@@ -1,0 +1,57 @@
+.btn-primary2 {
+  
+    padding: 1px 20px; 
+    font-size: 12px;
+    transition: background-color 0.3s ease; 
+  }
+  
+
+  
+  .btn-primary2 :hover {
+    background-color: rgb(2, 96, 21);
+  }
+  
+ 
+  .btn-primary2 {
+    background-color: rgb(7, 156, 7);; 
+        color: white;
+        padding:10px;
+  }
+  .btn-primary2:hover {
+    background-color:  rgb(2, 96, 21);
+  }
+  .cardten{
+    margin-left: 300px;
+    background:#fff;
+    margin-top:70px;
+    height:450px;
+    width:900px;
+  }
+  .cardpay{
+    background:#fff;
+    height:900px;
+    margin-top: 70px;
+  }
+  .btn-temporary  {
+    margin-left:290px;
+    padding: 5px 15px; 
+    font-size: 14px;
+    transition: background-color 0.3s ease; 
+  }
+ 
+  .btn-temporary :hover {
+    background-color: rgb(3, 106, 22); 
+  }
+  .btn-temporary {
+    background-color: #4ebd69; 
+        color: white; 
+  }
+  .btn-temporary:hover {
+    background-color:  rgb(3, 106, 22); 
+  }
+  .form-control::placeholder {
+    color: #8d8b8b;
+    font-size: 12px;
+    font-weight: 400;
+    margin: auto;
+  }

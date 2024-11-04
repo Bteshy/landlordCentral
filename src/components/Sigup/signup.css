@@ -1,0 +1,143 @@
+/* body{
+     background: linear-gradient(#2510A4, #0F65B4,#1DC9D3);
+    } */
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    margin-top: 50px;
+    padding-bottom: 100px;
+    background:#FFFFFF; 
+    width:500px;
+    border: 2px solid #1DC9D3;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); 
+    border-radius: 24px;
+   
+}
+.Headerlog{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:9px;
+    width:100%;
+    margin-top:30px;
+}
+
+.text{
+    color:#000;
+    font-size:48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.Registered{
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 70px;
+    font-style: italic;
+}
+.Registered span{
+    color: #1DC9D3;
+    cursor: pointer;
+    margin:auto;
+    text-align: center;
+}
+
+.inputs{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+}
+
+.input{
+
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 242x;
+    height: 54px;
+    background-color: rgb(232, 240, 254);
+    border:1px;
+}
+
+
+.input img{
+    margin: 0px  15px;
+    
+}
+
+.input input{
+    height: 50px;
+    width: 300px;
+    background:transparent;
+    border: none;
+    outline: none;
+    color: #000 ;
+    font-size: 19px;
+}
+input[type="text"]::placeholder {
+    color: #8d8b8b;
+    font-size: 24px;
+    font-weight: 400;
+    margin: auto;
+}
+
+input[type="password"]::placeholder{
+    color: #8d8b8b;
+    font-size: 24px;
+    font-weight: 400;
+    margin: auto;
+}
+input[type="Contact"]::placeholder{
+    color: #8d8b8b;
+    font-size: 24px;
+    font-weight: 400;
+    margin: auto;
+}
+input[type="Email"]::placeholder{
+    color: #8d8b8b;
+    font-size: 24px;
+    font-weight: 400;
+    margin: auto;
+}
+.Submit{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 300px;
+        height: 59px;
+        margin-top: 25px;
+        background: #000;
+        border-radius: 24px;
+        cursor: pointer;
+        text-decoration: none;
+    
+       
+    }
+   .Signup{
+    border-style: none;
+    background: transparent;
+    font-size: 32px;
+    font-weight: 700;
+    color:#F5F5F5;
+    cursor: pointer;
+
+   }
+   .error{
+    color:crimson;
+    font-size: 14px;
+    margin-left: 10px;
+    
+    
+   }
+   .success{
+    color:rgb(82, 161, 2);
+    font-size: 14px;
+    margin-left: 10px;
+   }
